@@ -1,6 +1,9 @@
 # Purepel Telegram Theme
 Dark Purple Style Telegram Theme
 
+### How to use?
+https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe
+
 ### Preview Theme
 ![Preview](https://raw.githubusercontent.com/oktavianto/Purepel-Telegram-Theme/master/screenshot/preview.png)
 
@@ -33,9 +36,5 @@ use ` for simple code
 - Not read icon
 
 ![Preview](https://github.com/oktavianto/Purepel-Telegram-Theme/blob/master/screenshot/not-read.png?raw=true)
-
-- Profile modal
-
-![Preview](https://github.com/oktavianto/Purepel-Telegram-Theme/blob/master/screenshot/profile-modal.png?raw=true)
 
 - And more features
